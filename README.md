@@ -14,7 +14,7 @@
 <br/>
 
 <p align="center">
-  <img src="./xcode.svg" alt="Xcode'da SwiftUI ile Barış" width="860" />
+  <img src="./xcode-v2.svg" alt="Xcode'da SwiftUI ile Barış" width="860" />
 </p>
 
 <p align="center">
@@ -23,6 +23,6 @@
 
 <p align="center">
   <a href="https://music.youtube.com/search?q=%C4%B0ncesaz+%C3%87ok+A%C5%9F%C4%B1%C4%9F%C4%B1n+Var+Diyorlar">
-    <img src="./muzik.svg" alt="Şu an çalıyor: İncesaz - Çok Aşığın Var Diyorlar" width="860" />
+    <img src="./muzik-v2.svg" alt="Şu an çalıyor: İncesaz - Çok Aşığın Var Diyorlar" width="860" />
   </a>
 </p>
