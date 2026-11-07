@@ -14,23 +14,15 @@
 <br/>
 
 <p align="center">
-  <img src="./xcode.svg" alt="Xcode'da SwiftUI ile Barış" width="760" />
+  <img src="./xcode.svg" alt="Xcode'da SwiftUI ile Barış" width="860" />
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brsrld/Brsrld/github-breakout/images/breakout-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brsrld/Brsrld/github-breakout/images/breakout-light.svg" />
-    <img alt="Katkı tablosundan Breakout oyunu" src="https://raw.githubusercontent.com/Brsrld/Brsrld/github-breakout/images/breakout-light.svg" />
-  </picture>
-</p>
-
-<p align="center">
-  <img src="./space-shooter.gif" alt="Katkı tablosundan Space Shooter oyunu" />
+  <img src="./space-shooter.gif" alt="Katkı tablosundan Space Shooter oyunu" width="860" />
 </p>
 
 <p align="center">
   <a href="https://music.youtube.com/search?q=%C4%B0ncesaz+%C3%87ok+A%C5%9F%C4%B1%C4%9F%C4%B1n+Var+Diyorlar">
-    <img src="./muzik.svg" alt="Şu an çalıyor: İncesaz - Çok Aşığın Var Diyorlar" width="520" />
+    <img src="./muzik.svg" alt="Şu an çalıyor: İncesaz - Çok Aşığın Var Diyorlar" width="860" />
   </a>
 </p>
