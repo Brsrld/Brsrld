@@ -1,7 +1,7 @@
-<h1 align="center">Selam, ben Barış 👋</h1>
+<h1 align="center">Hi, I'm Barış 👋</h1>
 
 <p align="center">
-  iOS Developer · İstanbul
+  iOS Developer · Istanbul
 </p>
 
 <p align="center">
@@ -14,15 +14,15 @@
 <br/>
 
 <p align="center">
-  <img src="./xcode-v2.svg" alt="Xcode'da SwiftUI ile Barış" width="860" />
+  <img src="./xcode-v3.svg" alt="Barış in Xcode, written in SwiftUI" width="860" />
 </p>
 
 <p align="center">
-  <img src="./space-shooter.gif" alt="Katkı tablosundan Space Shooter oyunu" width="860" />
+  <img src="./space-shooter.gif" alt="Space Shooter game generated from my contribution graph" width="860" />
 </p>
 
 <p align="center">
   <a href="https://music.youtube.com/search?q=%C4%B0ncesaz+%C3%87ok+A%C5%9F%C4%B1%C4%9F%C4%B1n+Var+Diyorlar">
-    <img src="./muzik-v2.svg" alt="Şu an çalıyor: İncesaz - Çok Aşığın Var Diyorlar" width="860" />
+    <img src="./muzik-v3.svg" alt="Now playing: İncesaz - Çok Aşığın Var Diyorlar" width="860" />
   </a>
 </p>
