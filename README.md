@@ -14,11 +14,19 @@
 <br/>
 
 <p align="center">
+  <img src="./xcode.svg" alt="Xcode'da SwiftUI ile Barış" width="760" />
+</p>
+
+<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Brsrld/Brsrld/github-breakout/images/breakout-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Brsrld/Brsrld/github-breakout/images/breakout-light.svg" />
     <img alt="Katkı tablosundan Breakout oyunu" src="https://raw.githubusercontent.com/Brsrld/Brsrld/github-breakout/images/breakout-light.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="./space-shooter.gif" alt="Katkı tablosundan Space Shooter oyunu" />
 </p>
 
 <p align="center">
