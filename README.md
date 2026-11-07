@@ -1,8 +1,7 @@
 <h1 align="center">Selam, ben Barış 👋</h1>
 
 <p align="center">
-  iOS Developer · İstanbul<br/>
-  <sub>SwiftUI, Combine ve boş zamanlarda Python ile ufak projeler</sub>
+  iOS Developer · İstanbul
 </p>
 
 <p align="center">
