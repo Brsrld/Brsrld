@@ -4,6 +4,9 @@ on:
   schedule: # 06:00 TR
     - cron: "0 3 * * *"
   workflow_dispatch:
+  push:
+    branches: [master]
+    paths: ['.github/workflows/**']
 
 permissions:
   contents: write

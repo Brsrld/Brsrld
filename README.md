@@ -44,22 +44,10 @@
 
 <h3 align="center">🎧 Şu an kulağımda</h3>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://is1-ssl.mzstatic.com/image/thumb/Music125/v4/de/a3/ee/dea3eef6-e170-923b-2946-7b766b142ac7/884385337575.jpg/300x300bb.jpg" width="120" alt="İncesaz - İki / Eylül Şarkıları" />
-    </td>
-    <td>
-      <b>Çok Aşığın Var Diyorlar</b><br/>
-      İncesaz · <i>Eylül Şarkıları</i><br/><br/>
-      <a href="https://open.spotify.com/search/%C4%B0ncesaz%20%C3%87ok%20A%C5%9F%C4%B1%C4%9F%C4%B1n%20Var%20Diyorlar">
-        <img src="https://img.shields.io/badge/Spotify'da_dinle-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify'da dinle" />
-      </a><br/>
-      <a href="https://music.youtube.com/search?q=%C4%B0ncesaz+%C3%87ok+A%C5%9F%C4%B1%C4%9F%C4%B1n+Var+Diyorlar">
-        <img src="https://img.shields.io/badge/YouTube_Music'te_dinle-FF0000?style=for-the-badge&logo=youtubemusic&logoColor=white" alt="YouTube Music'te dinle" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://music.youtube.com/search?q=%C4%B0ncesaz+%C3%87ok+A%C5%9F%C4%B1%C4%9F%C4%B1n+Var+Diyorlar">
+    <img src="./muzik.svg" alt="Şu an çalıyor: İncesaz - Çok Aşığın Var Diyorlar" width="480" />
+  </a>
+</p>
 
 <p align="center"><sub>Remember hope is a good thing, maybe the best of things, and no good thing ever dies.</sub></p>
