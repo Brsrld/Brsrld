@@ -1,28 +1,18 @@
 <h1 align="center">Selam, ben Barış 👋</h1>
 
 <p align="center">
-  🍎 iOS Developer @ <a href="https://github.com/obss">OBSS</a> · İstanbul<br/>
-  <sub>Gündüz SwiftUI + Combine, gece trading botu 🤖 ve eski uygarlıklardan hikâyeler 🏺</sub>
+  iOS Developer · İstanbul<br/>
+  <sub>SwiftUI, Combine ve boş zamanlarda Python ile ufak projeler</sub>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/brsrld" target="_blank">
-    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
-  </a>
-  <a href="https://www.linkedin.com/in/brsrld" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=071A2C" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/brsrld" target="_blank">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=071A2C" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/brsrld" target="_blank">
-    <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white&color=071A2C" alt="Facebook"/>
-  </a>
+  <a href="https://twitter.com/brsrld"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)"/></a>
+  <a href="https://www.linkedin.com/in/brsrld"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/brsrld"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://www.facebook.com/brsrld"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
----
-
-<h3 align="center">🧱 Katkılarım tuğla, ben top</h3>
+<br/>
 
 <p align="center">
   <picture>
@@ -32,8 +22,6 @@
   </picture>
 </p>
 
-<h3 align="center">🏙️ Aynı katkılar, bu sefer 3D</h3>
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
@@ -42,12 +30,8 @@
   </picture>
 </p>
 
-<h3 align="center">🎧 Şu an kulağımda</h3>
-
 <p align="center">
   <a href="https://music.youtube.com/search?q=%C4%B0ncesaz+%C3%87ok+A%C5%9F%C4%B1%C4%9F%C4%B1n+Var+Diyorlar">
     <img src="./muzik.svg" alt="Şu an çalıyor: İncesaz - Çok Aşığın Var Diyorlar" width="480" />
   </a>
 </p>
-
-<p align="center"><sub>Remember hope is a good thing, maybe the best of things, and no good thing ever dies.</sub></p>
